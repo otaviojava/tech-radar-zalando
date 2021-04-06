@@ -292,6 +292,13 @@ radar_visualization({
       },
       {
         quadrant: 0,
+        ring: 0,
+        label: "PHP",
+        active: true,
+        moved: 0
+      },
+      {
+        quadrant: 0,
         ring: 1,
         label: "GraphQL",
         active: true,
