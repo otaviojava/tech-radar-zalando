@@ -7,7 +7,7 @@ radar_visualization({
     grid: "#bbb",
     inactive: "#ddd"
   },
-  title: "Zalando Tech Radar — 2020.07",
+  title: "Xgeeks Tech Radar — 2021.01",
   quadrants: [
     { name: "Languages" },
     { name: "Infrastructure" },
@@ -33,36 +33,6 @@ radar_visualization({
       },
       {
         quadrant: 3,
-        ring: 0,
-        label: "Spark",
-        active: false,
-        link: "https://engineering.zalando.com/tags/apache-spark.html",
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 1,
-        label: "Airflow",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 1,
-        label: "AWS Data Pipeline",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 1,
-        label: "Flink",
-        active: false,
-        link: "https://engineering.zalando.com/tags/apache-flink.html",
-        moved: 0
-      },
-      {
-        quadrant: 3,
         ring: 1,
         label: "Google BigQuery",
         active: false,
@@ -70,29 +40,8 @@ radar_visualization({
       },
       {
         quadrant: 3,
-        ring: 1,
-        label: "Presto",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
         ring: 2,
         label: "Hadoop",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 2,
-        label: "YARN",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "Esper",
         active: false,
         moved: 0
       },
@@ -122,13 +71,6 @@ radar_visualization({
       {
         quadrant: 3,
         ring: 0,
-        label: "etcd",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 0,
         label: "PostgreSQL",
         active: false,
         link: "https://engineering.zalando.com/tags/postgresql.html",
@@ -151,27 +93,6 @@ radar_visualization({
       },
       {
         quadrant: 3,
-        ring: 1,
-        label: "AWS DynamoDB",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 1,
-        label: "HDFS",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 2,
-        label: "Consul",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
         ring: 2,
         label: "Google Bigtable",
         active: false,
@@ -179,29 +100,8 @@ radar_visualization({
       },
       {
         quadrant: 3,
-        ring: 2,
-        label: "RocksDB",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "Aerospike",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
         ring: 3,
         label: "CouchBase",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "HBase",
         active: false,
         moved: 0
       },
@@ -243,13 +143,6 @@ radar_visualization({
       {
         quadrant: 2,
         ring: 0,
-        label: "Akka (Scala)",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 0,
         label: "Node.js",
         active: false,
         link: "https://engineering.zalando.com/tags/nodejs.html",
@@ -258,43 +151,7 @@ radar_visualization({
       {
         quadrant: 2,
         ring: 0,
-        label: "Play (Scala)",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 0,
-        label: "ReactJS",
-        active: false,
-        link: "https://engineering.zalando.com/tags/react.html",
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 0,
-        label: "RxJava (Android)",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 0,
-        label: "scikit-learn",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 0,
         label: "Spring",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "Akka-Http",
         active: false,
         moved: 0
       },
@@ -323,42 +180,7 @@ radar_visualization({
       {
         quadrant: 2,
         ring: 1,
-        label: "Camunda",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "OpenNLP",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "TensorFlow",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
         label: "Thymeleaf",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 2,
-        label: "Aurelia",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 2,
-        label: "Ember.js",
         active: false,
         moved: 0
       },
@@ -372,56 +194,7 @@ radar_visualization({
       {
         quadrant: 2,
         ring: 2,
-        label: "Http4s",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 2,
         label: "jOOQ",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 2,
-        label: "Redux",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 2,
-        label: "Vert.x",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 2,
-        label: "Vue.js",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 3,
-        label: "Activiti",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 3,
-        label: "AngularJS 1.x",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 3,
-        label: "BackboneJS",
         active: false,
         moved: 0
       },
@@ -429,13 +202,6 @@ radar_visualization({
         quadrant: 2,
         ring: 3,
         label: "Drools",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 3,
-        label: "Spray",
         active: false,
         moved: 0
       },
@@ -485,20 +251,6 @@ radar_visualization({
       },
       {
         quadrant: 1,
-        ring: 0,
-        label: "ZMON",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 1,
-        ring: 1,
-        label: "Failsafe",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 1,
         ring: 1,
         label: "Undertow",
         active: false,
@@ -510,14 +262,6 @@ radar_visualization({
         label: "AWS Lambda",
         active: false,
         moved: 0
-      },
-      {
-        quadrant: 1,
-        ring: 3,
-        label: "STUPS",
-        active: false,
-        link: "https://engineering.zalando.com/tags/stups.html",
-        moved: -1
       },
       {
         quadrant: 0,
@@ -562,26 +306,10 @@ radar_visualization({
       {
         quadrant: 0,
         ring: 0,
-        label: "Scala",
-        active: true,
-        link: "https://engineering.zalando.com/tags/scala.html",
-        moved: 0
-      },
-      {
-        quadrant: 0,
-        ring: 0,
         label: "Swift",
         active: true,
         link: "https://engineering.zalando.com/tags/swift.html",
         moved: 0
-      },
-      {
-        quadrant: 0,
-        ring: 3,
-        label: "Clojure",
-        active: true,
-        link: "https://engineering.zalando.com/tags/clojure.html",
-        moved: -1
       },
       {
         quadrant: 0,
@@ -590,14 +318,6 @@ radar_visualization({
         active: true,
         link: "https://engineering.zalando.com/tags/graphql.html",
         moved: 1
-      },
-      {
-        quadrant: 0,
-        ring: 3,
-        label: "Haskell",
-        active: true,
-        link: "https://engineering.zalando.com/tags/haskell.html",
-        moved: -1
       },
       {
         quadrant: 0,
@@ -612,28 +332,6 @@ radar_visualization({
         label: "TypeScript",
         active: true,
         link: "https://engineering.zalando.com/tags/typescript.html",
-        moved: 0
-      },
-      {
-        quadrant: 0,
-        ring: 2,
-        label: "R",
-        active: true,
-        moved: 0
-      },
-      {
-        quadrant: 0,
-        ring: 3,
-        label: "Rust",
-        active: true,
-        link: "https://engineering.zalando.com/tags/rust.html",
-        moved: -1
-      },
-      {
-        quadrant: 3,
-        ring: 0,
-        label: "AWS SNS",
-        active: false,
         moved: 0
       },
       {
@@ -653,25 +351,10 @@ radar_visualization({
       },
       {
         quadrant: 3,
-        ring: 0,
-        label: "Nakadi",
-        active: false,
-        link: "https://nakadi.io",
-        moved: 0
-      },
-      {
-        quadrant: 3,
         ring: 1,
         label: "RabbitMQ",
         active: false,
         link: "https://engineering.zalando.com/tags/rabbitmq.html",
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 2,
-        label: "AWS Kinesis",
-        active: false,
         moved: 0
       },
       {
