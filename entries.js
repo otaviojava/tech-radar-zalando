@@ -187,13 +187,6 @@ radar_visualization({
         moved: 0
       },
       {
-        quadrant: 2,
-        ring: 3,
-        label: "Drools",
-        active: false,
-        moved: 0
-      },
-      {
         quadrant: 1,
         ring: 0,
         label: "Docker",
