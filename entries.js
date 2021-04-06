@@ -57,7 +57,6 @@ radar_visualization({
         ring: 0,
         label: "Cassandra",
         active: false,
-        link: "https://engineering.zalando.com/tags/cassandra.html",
         moved: 0
       },
       {
@@ -65,7 +64,6 @@ radar_visualization({
         ring: 0,
         label: "Elasticsearch",
         active: false,
-        link: "https://engineering.zalando.com/tags/elasticsearch.html",
         moved: 0
       },
       {
@@ -73,7 +71,6 @@ radar_visualization({
         ring: 0,
         label: "PostgreSQL",
         active: false,
-        link: "https://engineering.zalando.com/tags/postgresql.html",
         moved: 0
       },
       {
@@ -81,7 +78,6 @@ radar_visualization({
         ring: 0,
         label: "Redis",
         active: false,
-        link: "https://engineering.zalando.com/tags/redis.html",
         moved: 0
       },
       {
@@ -145,7 +141,6 @@ radar_visualization({
         ring: 0,
         label: "Node.js",
         active: false,
-        link: "https://engineering.zalando.com/tags/nodejs.html",
         moved: 0
       },
       {
@@ -160,7 +155,6 @@ radar_visualization({
         ring: 1,
         label: "Angular",
         active: false,
-        link: "https://engineering.zalando.com/tags/angular.html",
         moved: 0
       },
       {
@@ -210,7 +204,6 @@ radar_visualization({
         ring: 0,
         label: "Docker",
         active: false,
-        link: "https://engineering.zalando.com/tags/docker.html",
         moved: 0
       },
       {
@@ -225,7 +218,6 @@ radar_visualization({
         ring: 0,
         label: "Kubernetes",
         active: false,
-        link: "https://engineering.zalando.com/tags/kubernetes.html",
         moved: 0
       },
       {
@@ -268,7 +260,6 @@ radar_visualization({
         ring: 0,
         label: "Go",
         active: true,
-        link: "https://engineering.zalando.com/tags/golang.html",
         moved: 0
       },
       {
@@ -276,7 +267,6 @@ radar_visualization({
         ring: 0,
         label: "Java",
         active: true,
-        link: "https://engineering.zalando.com/tags/java.html",
         moved: 0
       },
       {
@@ -284,7 +274,6 @@ radar_visualization({
         ring: 0,
         label: "JavaScript",
         active: true,
-        link: "https://engineering.zalando.com/tags/javascript.html",
         moved: 0
       },
       {
@@ -292,7 +281,6 @@ radar_visualization({
         ring: 0,
         label: "OpenAPI (Swagger)",
         active: true,
-        link: "https://engineering.zalando.com/tags/openapi.html",
         moved: 0
       },
       {
@@ -300,7 +288,6 @@ radar_visualization({
         ring: 0,
         label: "Python",
         active: true,
-        link: "https://engineering.zalando.com/tags/python.html",
         moved: 0
       },
       {
@@ -308,7 +295,6 @@ radar_visualization({
         ring: 0,
         label: "Swift",
         active: true,
-        link: "https://engineering.zalando.com/tags/swift.html",
         moved: 0
       },
       {
@@ -316,7 +302,6 @@ radar_visualization({
         ring: 1,
         label: "GraphQL",
         active: true,
-        link: "https://engineering.zalando.com/tags/graphql.html",
         moved: 1
       },
       {
@@ -331,7 +316,6 @@ radar_visualization({
         ring: 1,
         label: "TypeScript",
         active: true,
-        link: "https://engineering.zalando.com/tags/typescript.html",
         moved: 0
       },
       {
@@ -346,7 +330,6 @@ radar_visualization({
         ring: 0,
         label: "Kafka",
         active: false,
-        link: "https://engineering.zalando.com/tags/kafka.html",
         moved: 0
       },
       {
@@ -354,7 +337,6 @@ radar_visualization({
         ring: 1,
         label: "RabbitMQ",
         active: false,
-        link: "https://engineering.zalando.com/tags/rabbitmq.html",
         moved: 0
       },
       {
