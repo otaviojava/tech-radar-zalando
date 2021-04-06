@@ -188,20 +188,6 @@ radar_visualization({
       },
       {
         quadrant: 2,
-        ring: 2,
-        label: "gRPC",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 2,
-        label: "jOOQ",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
         ring: 3,
         label: "Drools",
         active: false,
