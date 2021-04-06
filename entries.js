@@ -230,13 +230,6 @@ radar_visualization({
       },
       {
         quadrant: 1,
-        ring: 1,
-        label: "Undertow",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 1,
         ring: 2,
         label: "AWS Lambda",
         active: false,
@@ -260,13 +253,6 @@ radar_visualization({
         quadrant: 0,
         ring: 0,
         label: "JavaScript",
-        active: true,
-        moved: 0
-      },
-      {
-        quadrant: 0,
-        ring: 0,
-        label: "OpenAPI (Swagger)",
         active: true,
         moved: 0
       },
