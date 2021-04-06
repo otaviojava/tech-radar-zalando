@@ -152,6 +152,14 @@ radar_visualization({
       },
       {
         quadrant: 2,
+        ring: 0,
+        label: "Lavarel",
+        active: false,
+        link: "https://medium.com/xgeeks/tagged/laravel",
+        moved: 0
+      },
+      {
+        quadrant: 2,
         ring: 1,
         label: "Angular",
         active: false,
