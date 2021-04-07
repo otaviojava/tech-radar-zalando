@@ -27,21 +27,7 @@ radar_visualization({
       {
         quadrant: 3,
         ring: 0,
-        label: "AWS S3",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 0,
         label: "Cassandra",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 0,
-        label: "Elasticsearch",
         active: false,
         moved: 0
       },
@@ -55,14 +41,7 @@ radar_visualization({
       {
         quadrant: 3,
         ring: 0,
-        label: "Redis",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 0,
-        label: "Solr",
+        label: "MongoDB",
         active: false,
         moved: 0
       },
@@ -134,13 +113,6 @@ radar_visualization({
       {
         quadrant: 0,
         ring: 0,
-        label: "Kotlin",
-        active: true,
-        moved: 0
-      },
-      {
-        quadrant: 0,
-        ring: 0,
         label: "Java 11",
         active: true,
         moved: 0
@@ -164,13 +136,6 @@ radar_visualization({
         ring: 0,
         label: "PHP",
         active: true,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 0,
-        label: "AWS SQS",
-        active: false,
         moved: 0
       },
       {
