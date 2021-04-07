@@ -10,7 +10,7 @@ radar_visualization({
   title: "Xgeeks Tech Radar — 2021.01",
   quadrants: [
     { name: "Languages" },
-    { name: "Infrastructure" },
+    { name: "Architecture and Design" },
     { name: "Frameworks" },
     { name: "Data Management" }
   ],
