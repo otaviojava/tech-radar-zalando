@@ -111,6 +111,13 @@ radar_visualization({
       {
         quadrant: 2,
         ring: 0,
+        label: "Hibernate",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 2,
+        ring: 0,
         label: "Lavarel",
         active: false,
         link: "https://medium.com/xgeeks/tagged/laravel",
@@ -127,6 +134,55 @@ radar_visualization({
         quadrant: 2,
         ring: 1,
         label: "Thymeleaf",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 2,
+        ring: 2,
+        label: "MicroProfile",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 2,
+        ring: 2,
+        label: "Helidon",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 2,
+        ring: 2,
+        label: "Quarkus",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 2,
+        ring: 2,
+        label: "Jakarta EE",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 2,
+        ring: 2,
+        label: "JUnit 5",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 2,
+        ring: 3,
+        label: "Java on ARM",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 2,
+        ring: 3,
+        label: "JPMS: Adopting Modularity",
         active: false,
         moved: 0
       },
@@ -168,7 +224,21 @@ radar_visualization({
       {
         quadrant: 0,
         ring: 0,
-        label: "Java",
+        label: "Java 8",
+        active: true,
+        moved: 0
+      },
+      {
+        quadrant: 0,
+        ring: 0,
+        label: "Kotlin",
+        active: true,
+        moved: 0
+      },
+      {
+        quadrant: 0,
+        ring: 0,
+        label: "Java 11",
         active: true,
         moved: 0
       },
