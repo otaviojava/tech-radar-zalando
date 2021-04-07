@@ -189,28 +189,100 @@ radar_visualization({
       {
         quadrant: 1,
         ring: 0,
-        label: "Docker",
+        label: "Microservices",
         active: false,
         moved: 0
       },
       {
         quadrant: 1,
         ring: 0,
-        label: "OpenTracing",
+        label: "DDD",
         active: false,
         moved: 1
       },
       {
         quadrant: 1,
         ring: 0,
-        label: "Tomcat",
+        label: "REST",
+        active: false,
+        moved: 1
+      },
+      {
+        quadrant: 1,
+        ring: 1,
+        label: "GraphQL",
+        active: false,
+        moved: 1
+      },
+      {
+        quadrant: 1,
+        ring: 1,
+        label: "Reactive Programming",
+        active: false,
+        moved: 1
+      },
+      {
+        quadrant: 1,
+        ring: 1,
+        label: "HTTP/2 and gRPC",
+        active: false,
+        moved: 1
+      },
+      {
+        quadrant: 1,
+        ring: 1,
+        label: "Event-driven Arch",
+        active: false,
+        moved: 1
+      },
+      {
+        quadrant: 1,
+        ring: 1,
+        label: "CQRS",
+        active: false,
+        moved: 1
+      },
+      {
+        quadrant: 1,
+        ring: 1,
+        label: "Eventual Consistency",
+        active: false,
+        moved: 1
+      },
+      {
+        quadrant: 1,
+        ring: 2,
+        label: "Service Mesh",
         active: false,
         moved: 0
       },
       {
         quadrant: 1,
         ring: 2,
-        label: "AWS Lambda",
+        label: "Functional Programming",
+        active: false,
+        moved: 0
+      },
+      {
+        quadrant: 1,
+        ring: 2,
+        label: "Micro frontends",
+        active: false,
+        moved: 0,
+        link: "https://medium.com/xgeeks/tagged/micro-frontends"
+      },
+      {
+        quadrant: 1,
+        ring: 3,
+        label: "Async API",
+        active: false,
+        moved: 0,
+        link: "https://medium.com/xgeeks/tagged/micro-frontends"
+      },
+      {
+        quadrant: 1,
+        ring: 3,
+        label: "Reactive Stream",
         active: false,
         moved: 0
       },
@@ -262,13 +334,6 @@ radar_visualization({
         label: "PHP",
         active: true,
         moved: 0
-      },
-      {
-        quadrant: 0,
-        ring: 1,
-        label: "GraphQL",
-        active: true,
-        moved: 1
       },
       {
         quadrant: 0,
