@@ -26,13 +26,6 @@ radar_visualization({
   entries: [
       {
         quadrant: 3,
-        ring: 1,
-        label: "Google BigQuery",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
         ring: 0,
         label: "AWS S3",
         active: false,
@@ -74,27 +67,6 @@ radar_visualization({
         moved: 0
       },
       {
-        quadrant: 3,
-        ring: 3,
-        label: "MongoDB",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "MySQL",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "ZooKeeper",
-        active: false,
-        moved: 0
-      },
-      {
         quadrant: 2,
         ring: 0,
         label: "Node.js",
@@ -124,69 +96,6 @@ radar_visualization({
         moved: 0
       },
       {
-        quadrant: 2,
-        ring: 1,
-        label: "Angular",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "Thymeleaf",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "MicroProfile",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "Helidon",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "Quarkus",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 2,
-        label: "Jakarta EE",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "JUnit 5",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 3,
-        label: "Java on ARM",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 3,
-        label: "JPMS: Adopting Modularity",
-        active: false,
-        moved: 0
-      },
-      {
         quadrant: 1,
         ring: 0,
         label: "Microservices",
@@ -206,85 +115,6 @@ radar_visualization({
         label: "REST",
         active: false,
         moved: 1
-      },
-      {
-        quadrant: 1,
-        ring: 1,
-        label: "GraphQL",
-        active: false,
-        moved: 1
-      },
-      {
-        quadrant: 1,
-        ring: 1,
-        label: "Reactive Programming",
-        active: false,
-        moved: 1
-      },
-      {
-        quadrant: 1,
-        ring: 1,
-        label: "HTTP/2 and gRPC",
-        active: false,
-        moved: 1
-      },
-      {
-        quadrant: 1,
-        ring: 1,
-        label: "Event-driven Arch",
-        active: false,
-        moved: 1
-      },
-      {
-        quadrant: 1,
-        ring: 1,
-        label: "CQRS",
-        active: false,
-        moved: 1
-      },
-      {
-        quadrant: 1,
-        ring: 1,
-        label: "Eventual Consistency",
-        active: false,
-        moved: 1
-      },
-      {
-        quadrant: 1,
-        ring: 2,
-        label: "Service Mesh",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 1,
-        ring: 2,
-        label: "Functional Programming",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 1,
-        ring: 2,
-        label: "Micro frontends",
-        active: false,
-        moved: 0,
-        link: "https://medium.com/xgeeks/tagged/micro-frontends"
-      },
-      {
-        quadrant: 1,
-        ring: 3,
-        label: "Async API",
-        active: false,
-        moved: 0,
-        link: "https://medium.com/xgeeks/tagged/micro-frontends"
-      },
-      {
-        quadrant: 1,
-        ring: 3,
-        label: "Reactive Stream",
-        active: false,
-        moved: 0
       },
       {
         quadrant: 0,
@@ -336,20 +166,6 @@ radar_visualization({
         moved: 0
       },
       {
-        quadrant: 0,
-        ring: 1,
-        label: "Kotlin",
-        active: true,
-        moved: 0
-      },
-      {
-        quadrant: 0,
-        ring: 1,
-        label: "TypeScript",
-        active: true,
-        moved: 0
-      },
-      {
         quadrant: 3,
         ring: 0,
         label: "AWS SQS",
@@ -362,28 +178,7 @@ radar_visualization({
         label: "Kafka",
         active: false,
         moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 1,
-        label: "RabbitMQ",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "ActiveMQ",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "HornetQ",
-        active: false,
-        moved: 0
-      },
+      }
   ]
   //ENTRIES
 });
