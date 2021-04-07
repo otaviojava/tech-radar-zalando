@@ -139,21 +139,21 @@ radar_visualization({
       },
       {
         quadrant: 2,
-        ring: 2,
+        ring: 1,
         label: "MicroProfile",
         active: false,
         moved: 0
       },
       {
         quadrant: 2,
-        ring: 2,
+        ring: 1,
         label: "Helidon",
         active: false,
         moved: 0
       },
       {
         quadrant: 2,
-        ring: 2,
+        ring: 1,
         label: "Quarkus",
         active: false,
         moved: 0
@@ -167,7 +167,7 @@ radar_visualization({
       },
       {
         quadrant: 2,
-        ring: 2,
+        ring: 1,
         label: "JUnit 5",
         active: false,
         moved: 0
