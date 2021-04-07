@@ -78,6 +78,7 @@ radar_visualization({
         ring: 0,
         label: "Spring",
         active: false,
+        link: "https://medium.com/xgeeks/tagged/spring",
         moved: 0
       },
       {
