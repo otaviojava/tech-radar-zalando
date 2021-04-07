@@ -26,22 +26,8 @@ radar_visualization({
   entries: [
       {
         quadrant: 3,
-        ring: 0,
-        label: "AWS EMR",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
         ring: 1,
         label: "Google BigQuery",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 2,
-        label: "Hadoop",
         active: false,
         moved: 0
       },
@@ -89,27 +75,6 @@ radar_visualization({
       },
       {
         quadrant: 3,
-        ring: 2,
-        label: "Google Bigtable",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "CouchBase",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "Memcached",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
         ring: 3,
         label: "MongoDB",
         active: false,
@@ -119,13 +84,6 @@ radar_visualization({
         quadrant: 3,
         ring: 3,
         label: "MySQL",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 3,
-        ring: 3,
-        label: "Oracle DB",
         active: false,
         moved: 0
       },
@@ -168,20 +126,6 @@ radar_visualization({
       {
         quadrant: 2,
         ring: 1,
-        label: "AspectJ",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
-        label: "Camel",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 2,
-        ring: 1,
         label: "Thymeleaf",
         active: false,
         moved: 0
@@ -190,27 +134,6 @@ radar_visualization({
         quadrant: 1,
         ring: 0,
         label: "Docker",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 1,
-        ring: 0,
-        label: "Hystrix",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 1,
-        ring: 0,
-        label: "Kubernetes",
-        active: false,
-        moved: 0
-      },
-      {
-        quadrant: 1,
-        ring: 0,
-        label: "Nginx",
         active: false,
         moved: 0
       },
